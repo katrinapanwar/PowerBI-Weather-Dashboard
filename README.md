@@ -89,6 +89,8 @@ This project is a dynamic **weather dashboard** built in Power BI. It allows use
 
 ---
 
+![Weatherdashboard](Weatherdashboard.png)
+
 ## Author
 [Katrina Panwar](https://github.com/YourGitHubUsername)
 
